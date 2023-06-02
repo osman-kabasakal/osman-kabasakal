@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter da ortam değişkenlerini ayarlama.](https://medium.com/@_osmankabasakal/flutter-da-ortam-de%C4%9Fi%C5%9Fkenlerini-ayarlama-bd27772108f?source=rss-3f301c07a028------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
