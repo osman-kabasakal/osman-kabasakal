@@ -1,7 +1,30 @@
-<h1 align="center">Hi 👋, I'm osman</h1>
-<h3 align="center">Full stack developer from Turkey</h3>
+## Hi there, I'm Osman Kabasakal! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossea&label=Profile%20views&color=0e75b6&style=flat" alt="ossea" /> </p>
+I'm a software developer with a passion for learning and exploring new technologies. I have a strong background in full-stack development and enjoy solving complex problems.
+
+### 🌱 Skills
+
+- **Languages:** JavaScript, SQL, HTML & CSS, C# .NET
+- **Frameworks/Libraries:** Entity Framework, LINQ, API, Flutter
+- **Databases:** MSSQL, MongoDB
+- **Version Control:** Git
+- **Tools/Technologies:** Agile Development, JIRA, SignalR, Docker, Jenkins
+
+### 💼 Projects
+
+- **Sıkışan Blok**
+  - The mobile game that I have developed to learn Flutter. Visit the [link](https://jammed-block.web.app) for download.
+
+### 📫 Connect with Me
+
+- LinkedIn: [osman-kabasakal](https://www.linkedin.com/in/osman-kabasakal-352080aa/)
+- GitHub: [osman-kabasakal](https://github.com/osman-kabasakal)
+- HackerRank: [osmankabasakal75](https://www.hackerrank.com/osmankabasakal75)
+- Medium: [@_osmankabasakal](https://medium.com/@_osmankabasakal)
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osman-kabasakal&label=Profile%20views&color=0e75b6&style=flat" alt="osman-kabasakal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/osman_kbskl" target="blank"><img src="https://img.shields.io/twitter/follow/osman_kbskl?logo=twitter&style=for-the-badge" alt="osman_kbskl" /></a> </p>
 
@@ -10,19 +33,6 @@
 - [Flutter da ortam değişkenlerini ayarlama.](https://medium.com/@_osmankabasakal/flutter-da-ortam-de%C4%9Fi%C5%9Fkenlerini-ayarlama-bd27772108f?source=rss-3f301c07a028------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/osman_kbskl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osman_kbskl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/osman-kabasakal-352080aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osman-kabasakal-352080aa" height="30" width="40" /></a>
-<a href="https://medium.com/@_osmankabasakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_osmankabasakal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/osmankabasakal75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="osmankabasakal75" height="30" width="40" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osman-kabasakal&show_icons=true&locale=en&layout=compact" alt="osman-kabasakal" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ossea&show_icons=true&locale=en&layout=compact" alt="ossea" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ossea&show_icons=true&locale=en" alt="ossea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ossea&" alt="ossea" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osman-kabasakal&show_icons=true&locale=en" alt="osman-kabasakal" /></p>
